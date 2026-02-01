@@ -7,7 +7,7 @@ Trabajos realizados en la materia sistemas operativos de la facultad de ingenier
 
 # Trabajos grupales
 
-(realizados en conjunto con @J0SEPHMT, @Martiin17 y @Sh4rkzDev)
+Integrantes: Franco Guardia (@franguardia12), Joseph Mamani (@J0SEPHMT), Martín Castro (@Martiin17), Lucas García (@Sh4rkzDev)
 
 - shell: implementación en C de la funcionalidad mínima de un intérprete de comandos shell similar a lo que realizan bash, zsh o fish
 - sched: implementación en C del mecanismo de cambio de contexto para procesos y el scheduler (planificador) sobre un sistema operativo preexistente. Se utiliza un kernel que es una modificación de JOS, un exokernel educativo con licencia libre del grupo Sistemas Operativos Distribuidos del MIT
